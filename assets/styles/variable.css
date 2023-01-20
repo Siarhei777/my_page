@@ -1,0 +1,15 @@
+:root {
+    --blink-color: #40663a;
+    --image-background-color: #1c8c00;
+    /* --element-background-color: #378c3f; */
+    --element-background-color: #215427;
+    --secondary-text-color: #fff;
+    --main-backgroud-color: #fff;
+    --social-background-color: #888888;
+    --main-text-color: #2c2c2c;
+    --main-font-family: 'Montserrat', sans-serif;
+    --progress-background-color: #afd1b2;
+    --light-text-color: rgba(0, 0, 0, 0.125);
+    --light-background-color: rgba(255, 255, 255, 0.15);
+    --adaptive-menu-background-color: linear-gradient(to bottom, #4f8e55, #252525);
+}
