@@ -216,8 +216,7 @@ section.personal {
     align-items: center;
     background-color: var(--element-background-color);
     color: var(--secondary-text-color);
-    font-family: var(--main-font-family);
-    /* font-size: calc(0.5rem + 0.5vmin); */
+    font-family: var(--main-font-family);    
     font-size: calc(0.6rem + 0.6vmin);
     font-weight: normal;
     transition: 0.2s ease-in all;
